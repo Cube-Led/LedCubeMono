@@ -1,5 +1,6 @@
-#arduino-yasolibs
+#LedCube Mono
 ================
+#arduino-yasolibs
 
 Yet another set of libs for Arduino.
 
